@@ -1,5 +1,5 @@
 <div>
-  <img src="YR_workflow.PNG" style="max-width:40%;>
+  <img src="YR_workflow.PNG" style="max-width:40%;">
 </div>
 
 ## Description:
