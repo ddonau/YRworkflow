@@ -1,7 +1,7 @@
-# YRworkflow
 <div align="center">
   <img src="YR_workflow.PNG">
 </div>
+#
 Automatation of simple workflow using the web tool [Yeastriction](http://yeastriction.tnw.tudelft.nl/)
 
 ## Description:
