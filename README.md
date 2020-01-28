@@ -1,11 +1,14 @@
 # YRworkflow
-Automation of workflow using web tool Yeastriction
+<div align="center">
+  <img src="YR_workflow.png">
+</div>
+Automatation of simple workflow using the web tool [Yeastriction](http://yeastriction.tnw.tudelft.nl/)
 
 ## Description:
 
-This python script automates the workflow to extract 2 gRNA's from the Yeastriction web tool (http://yeastriction.tnw.tudelft.nl/). 
+This python script automates the extraction of 2 gRNA's from the [Yeastriction](http://yeastriction.tnw.tudelft.nl/) web tool. 
 
-A restriction enzyme digest analysis is conducted on these gRNAs to find the unique enzyme cutting sites.
-Diagnostic primers are also designed specific for the gRNAs of interest.
+A restriction enzyme digest analysis is then conducted on the extracted gRNAs and unique enzyme cutting sites are identified.
+Diagnostic primers are then designed against these specific gRNAs.
 
 
