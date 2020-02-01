@@ -1,7 +1,3 @@
-<div>
-  <img src="YR_workflow.PNG" style="max-width:40%;">
-</div>
-
 ## Description:
 Automation of the extraction of 2 gRNA's using the web tool [Yeastriction](http://yeastriction.tnw.tudelft.nl/)
 
